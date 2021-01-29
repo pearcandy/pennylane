@@ -2,11 +2,11 @@
   hardware_efficient.py                                                          
                                                               
   This code is distributed under the constitution of GNU-GPL. 
-  (c) Yasutaka Nishida (Toshiba)                              
+  (c) PearCandy                              
                                                               
   Log of hardware_efficient                                                   
                                                               
-  2021/01/06  Released by Y.Nishida                       
+  2021/01/06  Released by PearCandy                       
                                                               
                                                            '''
 #coding:utf-8
