@@ -23,3 +23,6 @@ from .single_excitation_unitary import SingleExcitationUnitary
 from .uccsd import UCCSD
 from .approx_time_evolution import ApproxTimeEvolution
 from .permute import Permute
+from .hardware_efficient import HardwareEfficient
+from .symmetry_preserving import SymmetryPreserving
+from .uccshH2 import UCCSDH2
